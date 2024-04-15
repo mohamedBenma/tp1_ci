@@ -4,6 +4,8 @@
 .settings/
 .svn/
 .lh
+/.lh
+/.history
 .history
 # Intellij
 *.ipr
