@@ -1,0 +1,22 @@
+**/target/**
+.project
+.classpath
+.settings/
+.svn/
+.lh
+/.lh
+/.history
+.history
+# Intellij
+*.ipr
+*.iml
+.idea
+.DS_Store
+/bootstrap
+/dependencies.xml
+.java-version
+.checkstyle
+.factorypath
+.vscode/
+repo/
+/*.svg
